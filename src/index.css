@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.green-plus {
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+    background-color:#90ee90 ;
+    font-weight: bold;
+    color: white;
+    border-radius: 50%; /* Makes it round */
+    border-color: #90ee90;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px; /* Adjust size as needed */
+  }
+  .red-minus {
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+    background-color:red ;
+    font-weight: bold;
+    color: white;
+    border-radius: 50%; /* Makes it round */
+    border-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px; /* Adjust size as needed */
+  }
